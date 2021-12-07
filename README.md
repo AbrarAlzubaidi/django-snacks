@@ -1,5 +1,4 @@
-[PR-link]()
 
-[home page](http://127.0.0.1:8000/home)
+[PR-lab26](https://github.com/AbrarAlzubaidi/django-snacks/pull/1)
 
-[about us page](http://127.0.0.1:8000/about-us)
+[PR-lab27](https://github.com/AbrarAlzubaidi/django-snacks/pull/2)
