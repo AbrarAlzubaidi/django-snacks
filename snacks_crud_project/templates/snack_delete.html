@@ -1,0 +1,13 @@
+{% extends "_base.html" %}
+
+{% block title %} {{snack.title}} create {% endblock %}
+
+{% block content %} 
+<form action="" method ='post'>
+    {% csrf_token %}
+    {{form.as_p}}
+    <p> Delete Validation, Are you sure you want to delete {{snack.title}}</p>
+    <input type="submit" value='ok'>
+</form>
+    
+{% endblock %}
